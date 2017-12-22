@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">"                  "Học Tiếng Anh </string>
+    <string-array name="list_rau">
+        <item>cauliflower</item>
+        <item>garlic</item>
+        <item>carrot</item>
+        <item>tomato</item>
+        <item>yam</item>
+        <item>zucchini</item>
+        <item>potato</item>
+        <item>cauliflower</item>
+        <item>pumpkin</item>
+        <item>apple</item>
+        <item>bananas</item>
+        <item>blackberries</item>
+        <item>blueberries</item>
+        <item>cantaloupe</item>
+        <item>cashew</item>
+        <item>coconut</item>
+        <item>cranberries</item>
+        <item>date</item>
+        <item>fig</item>
+        <item>grapes</item>
+        <item>hazelnut</item>
+        <item>lemon</item>
+        <item>mango</item>
+        <item>orange</item>
+        <item>papaya</item>
+        <item>peanut</item>
+        <item>pear</item>
+        <item>pineapple</item>
+        <item>prune</item>
+        <item>raisin</item>
+        <item>strawberry</item>
+        <item>walnut</item>
+        <item>watermelon</item>
+        <item>broccoli</item>
+        <item>onion</item>
+        <item>eggplant</item>
+        <item>pepper</item>
+        <item>turnip</item>
+        <item>celery</item>
+        <item>artichoke</item>
+        <item>corn</item>
+        <item>cucumber</item>
+        <item>cabbage</item>
+    </string-array>
+
+    <string-array name="list_nguoi">
+        <item>baby</item>
+        <item>woman</item>
+        <item>girl</item>
+        <item>man</item>
+        <item>parents</item>
+        <item>grandparents</item>
+        <item>husband </item>
+        <item>children</item>
+        <item>granddaughter </item>
+        <item>wife</item>
+        <item>boy</item>
+        <item>grandson</item>
+        <item>brother</item>
+        <item>father</item>
+        <item>grandfather</item>
+        <item>grandmother</item>
+        <item>mother</item>
+        <item>sister</item>
+        <item>judge</item>
+        <item>police</item>
+        <item>detective</item>
+        <item>teacher</item>
+        <item>nurse</item>
+        <item>worker</item>
+    </string-array>
+    <string-array name="list_vat">
+        <item>hummingbird</item>
+        <item>eagle</item>
+        <item>owl</item>
+        <item>rooster</item>
+        <item>duck</item>
+        <item>swan</item>
+        <item>butterfly</item>
+        <item>dragonfly</item>
+        <item>grasshopper</item>
+        <item>mantis</item>
+        <item>ant</item>
+        <item>bee</item>
+        <item>lion</item>
+        <item>tiger</item>
+        <item>leopard</item>
+        <item>monkey</item>
+        <item>wolf</item>
+        <item>dolphin</item>
+        <item>rabbit</item>
+        <item>hippopotamus</item>
+        <item>zebra</item>
+        <item>mouse</item>
+        <item>koala</item>
+        <item>kangaroo</item>
+    </string-array>
+
+</resources>

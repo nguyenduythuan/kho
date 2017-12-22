@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:title="aghsdahf"
+        android:icon="@drawable/icontrochoi"
+        app:showAsAction="always">
+        <menu>
+            <item
+                android:title="People and Occupations"
+                android:id="@+id/Pe"/>
+            <item
+                android:title="Animals and  Insects"
+                android:id="@+id/An"/>
+            <item
+                android:title="Vegetables and  Fruit"
+                android:id="@+id/Ve"/>
+
+        </menu>
+
+    </item>
+
+
+</menu>
